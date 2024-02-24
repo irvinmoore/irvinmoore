@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Irvin Moore</h1>
+<h1 align="center">Hi 👋, I'm Irvin</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
 - 📫 How to reach me **irvin.moore7@gmail.com**
 
